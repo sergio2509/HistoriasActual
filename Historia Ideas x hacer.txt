@@ -1,0 +1,19 @@
+1. en la estructura paciente en tabla se debe poner un aparte para la prox consulta, no ponerla en las tablas de consulta xq habrian muchas, asi solo habria 1.
+
+2. en la estructura de controles obs. se debe poner un aparte para la resolucion del embarazo: parto, cesarea, fecha de iq, lugar, datos del nino si se puede nombre peso sexo 
+
+solucion hasta ahora. se hizo un vinculo a la iq asociada donde se pueden rescatar todos esos datos. se dejo un escueto con algunos datos para esas ptes ingratas q se van despues de q las controle y no operan conmigo...
+
+3. txt02a > fecha de control 2da consulta txt03a de la tercera las fechas son las a.
+   txt02b > las fur
+   c > enf actual
+   d > Procedimiento realizados
+   e > ttos
+   f > Pendiente prox
+   g > ex fisico
+
+en la 1ra hay un cambio
+    a fecha, b fur, c motivo consulta, d enf actual 
+    e proce, f tto, g pendiente prox , h ex fisico
+
+4 ajaaa. una tabla de recipes asociados a las consultas para saber q se indico en cada consulta. lo mismo se podria hacer con los informes, reposos y demas hierbas

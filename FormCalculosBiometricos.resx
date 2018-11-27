@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+            Microsoft ResX Schema 
+        
+            Version 1.3
+                
+            The primary goals of this format is to allow a simple XML format 
+            that is mostly human readable. The generation and parsing of the 
+            various data types are done through the TypeConverter classes 
+            associated with the data types.
+        
+            Example:
+        
+                ... ado.net/XML headers & schema ...
+                <resheader name="resmimetype">text/microsoft-resx</resheader>
+                <resheader name="version">1.3</resheader>
+                <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+                <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+                <data name="Name1">this is my long string</data>
+                <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+                <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+                    [base64 mime encoded serialized .NET Framework object]
+                </data>
+                <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+                    [base64 mime encoded string representing a byte array form of the .NET Framework object]
+                </data>
+        
+            There are any number of "resheader" rows that contain simple 
+            name/value pairs.
+            
+            Each data row contains a name, and value. The row also contains a 
+            type or mimetype. Type corresponds to a .NET class that support 
+            text/value conversion through the TypeConverter architecture. 
+            Classes that don't support this are serialized and stored with the 
+            mimetype set.
+                     
+            The mimetype is used for serialized objects, and tells the 
+            ResXResourceReader how to depersist the object. This is currently not 
+            extensible. For a given mimetype the value must be set accordingly:
+        
+            Note - application/x-microsoft.net.object.binary.base64 is the format 
+                   that the ResXResourceWriter will generate, however the reader can 
+                   read any of the formats listed below.
+        
+            mimetype: application/x-microsoft.net.object.binary.base64
+            value   : The object must be serialized with 
+                    : System.Serialization.Formatters.Binary.BinaryFormatter
+                    : and then encoded with base64 encoding.
+        
+            mimetype: application/x-microsoft.net.object.soap.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+                    : and then encoded with base64 encoding.
+            mimetype: application/x-microsoft.net.object.bytearray.base64
+            value   : The object must be serialized into a byte array 
+                    : using a System.ComponentModel.TypeConverter
+                    : and then encoded with base64 encoding.
+        -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="GroupBox1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label67.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label104.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label103.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label102.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label101.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label100.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label99.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label95.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label94.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label91.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label90.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label89.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labEGxCA.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labPesoTEXT.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labPesoEstimado.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label76.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labIndCef.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label71.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtTransAbdomen.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="GroupBox11.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="LabEdadEcografica2y3erT.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label65.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labEGxFemur.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label63.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labEGxCC.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label61.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labEGxDBPc.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label59.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labEGxDBP.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label57.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labDBF.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtFemur.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label56.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label51.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labCirAbd.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtAPA.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label50.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label45.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labCirCef.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label40.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labDBPc.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtDOF.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label37.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtDBP.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label34.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="GroupBox2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="LabEdadEcografica1erT.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labEGxLCC.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label30.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtLCC.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label28.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label9.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtSGtransversal.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label26.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labSGpromedio.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtSGanteroposterior.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtSGlongitudinal.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label25.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label17.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label16.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label15.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label8.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="labEGxSG.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="botSalirSinGuardar.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="botSalirSinGuardar.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        Qk2WPAAAAAAAADYAAAAoAAAA4AAAABcAAAABABgAAAAAAAAAAAASCwAAEgsAAAAAAAAAAAAA1/T+1/T+
+        1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+
+        2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+
+        3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+
+        3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX9
+        4fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b9
+        4/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb9
+        5fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf9
+        6Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf8
+        6vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj8
+        7fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j8
+        7/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj8
+        8vn88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+
+        2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+
+        2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+
+        3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX9
+        4PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb9
+        4vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb9
+        5fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f9
+        5/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf8
+        6vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf8
+        7Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj8
+        7/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj8
+        8fj88fj88fj88fj88vn88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+
+        2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+
+        2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+
+        3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X9
+        4PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb9
+        4vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb9
+        5Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f9
+        5/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff8
+        6ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf8
+        7Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj8
+        7vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj8
+        8fj88fj88fj88fj88fj88fj88fj88fj88vn88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+
+        2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+
+        2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+
+        3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+
+        3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb9
+        4vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb9
+        5Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb9
+        5vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff8
+        6ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f8
+        6/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj8
+        7vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj8
+        8Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn88vn81/T+1/T+1/T+1/T+1/T+1/T+
+        1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+
+        2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+
+        3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+
+        3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX9
+        4fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b9
+        4/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb9
+        5vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf9
+        6Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f8
+        6/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj8
+        7fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j8
+        8Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn88vn81/T+1/T+
+        1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+
+        2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+
+        3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+
+        3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX9
+        4fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b9
+        4/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb9
+        5fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf9
+        6Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf8
+        6vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj8
+        7fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j8
+        7/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj8
+        8vn88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+
+        2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+
+        2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+
+        3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX9
+        4PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb9
+        4vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb9
+        5fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f9
+        5/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf8
+        6vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf8
+        7Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj8
+        7/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj8
+        8fj88fj88fj88fj88vn88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+
+        2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+
+        2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+
+        3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X9
+        4PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb9
+        4vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb9
+        5Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f9
+        5/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff8
+        6ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf8
+        7Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj8
+        7vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj8
+        8fj88fj88fj88fj88fj88fj88fj88fj88vn88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+
+        2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+
+        2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+
+        3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+
+        3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb9
+        4vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb9
+        5Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb9
+        5vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff8
+        6ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f8
+        6/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87fj8
+        7vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj8
+        8Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+
+        1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+
+        2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+
+        3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+
+        3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX9
+        4fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b9
+        4/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb9
+        5vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf9
+        6Pf96Pf96ff86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf8
+        6/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj8
+        7fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j8
+        7/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+
+        1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+
+        2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+
+        3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+
+        3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX9
+        4fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b9
+        4/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb9
+        5fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf9
+        6Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf8
+        6vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj8
+        7fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j8
+        7/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj8
+        8fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+
+        2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+
+        2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+
+        3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX9
+        4PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb9
+        4vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb9
+        5fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f9
+        5/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf8
+        6vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf8
+        7Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj8
+        7vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj8
+        8fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+
+        2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+
+        2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+
+        3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+
+        3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb9
+        4vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb9
+        5Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b9
+        5/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff8
+        6ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f8
+        7Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj8
+        7vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj8
+        8Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+
+        2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+
+        2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+
+        3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+
+        3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX9
+        4fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb9
+        5Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb9
+        5vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff8
+        6ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f8
+        6/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj8
+        7vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj8
+        8Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+
+        1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+
+        2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+
+        3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+
+        3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX9
+        4fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b9
+        4/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb9
+        5vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf9
+        6Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf8
+        6/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj8
+        7fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j8
+        7/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+
+        1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+
+        2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+
+        3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+
+        3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX9
+        4PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b9
+        4/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb9
+        5fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf9
+        6Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf8
+        6vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj8
+        7fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j8
+        7/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj8
+        8fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+
+        2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+
+        2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+
+        3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX9
+        4PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb9
+        4vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb9
+        5fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f9
+        5/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf8
+        6vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf8
+        7Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj8
+        7vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj8
+        8fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+
+        2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+
+        2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+
+        3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+
+        3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb9
+        4vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb9
+        5Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b9
+        5/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff8
+        6ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f8
+        7Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj8
+        7vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj8
+        8Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+
+        2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+
+        2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+
+        3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+
+        3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX9
+        4fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb9
+        5Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb9
+        5vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff8
+        6ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f8
+        6/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj8
+        7vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj8
+        8Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+
+        1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+
+        2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+
+        3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+
+        3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX9
+        4fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b9
+        4/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb9
+        5vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf9
+        6Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf8
+        6/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj8
+        7fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j8
+        7/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn81/T+1/T+
+        1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+
+        2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+
+        3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+
+        3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX94PX94PX94PX94PX9
+        4PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb94vb94vb94/b94/b9
+        4/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb95fb95fb95fb95fb9
+        5fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f95/f95/f95/f96Pf9
+        6Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf86vf86vf86vf86vf8
+        6vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj8
+        7fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj87vj87/j87/j87/j8
+        7/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj88fj88fj88fj88fj8
+        8fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2PT+2fT+
+        2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2/T+2/T+2/T+2/T+
+        2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+3fX+
+        3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+3/X94PX94PX94PX9
+        4PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb94vb94vb94vb94vb9
+        4vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb95Pb95Pb95fb95fb9
+        5fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b95/f95/f95/f95/f9
+        5/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff86ff86ff86ff86vf8
+        6vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f87Pf87Pf87Pf87Pf8
+        7Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj87vj87vj87vj87vj8
+        7vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj88Pj88fj88fj88fj8
+        8fj88fj88fj88fj88fj88vn81/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+1/T+2PT+2PT+2PT+2PT+2PT+
+        2PT+2PT+2PT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2fT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+2vT+
+        2/T+2/T+2/T+2/T+2/T+2/T+2/T+2/T+3PT+3PT+3PT+3PX+3PX+3PX+3PX+3PX+3fX+3fX+3fX+3fX+
+        3fX+3fX+3fX+3fX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3vX+3/X+3/X+3/X+3/X+3/X+3/X+3/X+
+        3/X94PX94PX94PX94PX94PX94PX94PX94PX94fX94fX94fX94fX94fX94fX94fX94fb94vb94vb94vb9
+        4vb94vb94vb94vb94vb94vb94/b94/b94/b94/b94/b94/b94/b94/b95Pb95Pb95Pb95Pb95Pb95Pb9
+        5Pb95Pb95fb95fb95fb95fb95fb95fb95fb95fb95vb95vb95vb95vb95vb95vb95vb95vb95vb95/b9
+        5/f95/f95/f95/f95/f95/f95/f96Pf96Pf96Pf96Pf96Pf96Pf96Pf96Pf86ff86ff86ff86ff86ff8
+        6ff86ff86ff86vf86vf86vf86vf86vf86vf86vf86vf86vf86/f86/f86/f86/f86/f86/f86/f86/f8
+        7Pf87Pf87Pf87Pf87Pf87Pj87Pj87Pj87fj87fj87fj87fj87fj87fj87fj87fj87vj87vj87vj87vj8
+        7vj87vj87vj87vj87vj87/j87/j87/j87/j87/j87/j87/j87/j88Pj88Pj88Pj88Pj88Pj88Pj88Pj8
+        8Pj88fj88fj88fj88fj88fj88fj88fj88fj88vn8
+</value>
+  </data>
+  <data name="GroupBox3.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="$this.Name">
+    <value>FormCalculosBiometricos</value>
+  </data>
+</root>
